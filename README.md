@@ -1,7 +1,7 @@
 ### Oi! É eu sou o Lucas Rizério 👋
 
 ##
-- 🌱 Estou aprendendo no momento web developer
+-  Estou aprendendo no momento Desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/LucasRizerio">
